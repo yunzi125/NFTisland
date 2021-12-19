@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a>
 
 ------------
-###프로젝트 개발 동기 및 목적, 필요성
+### 프로젝트 개발 동기 및 목적, 필요성
 1. 개요
     - NFT를 이용해서 예술 작품을 거래하는 웹 사이트 제작
 
