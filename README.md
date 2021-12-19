@@ -1,9 +1,14 @@
-# NFTisland
+<h1 align="center">NFT Island</h1>
 
+<p align="center">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a>
+</p>
+
+ * 해당 프로젝트는 eclipse IDE 환경에서 제작되었습니다.
+ * 해당 프로젝트는 2021-2 <지능웹설계> 텀프로젝트로 제출되었습니다.
 
 ------------
 ### 프로젝트 개발 동기 및 목적, 필요성
@@ -65,3 +70,7 @@ NFT Island 페이지에서 사람들이 올린 작품을 자유롭게 구경해�
     - 데이터베이스에 데이터를 추가하여 사용자에게 더 많은 작품 제공
     - 웹 사이트 뿐만 아니라 앱으로도 확장하여 편리한 사용환경 구축
     - localhost로 운영하던 기존 방식을 벗어나 모든 사람이 사용할 수 있게끔 개선
+
+------------
+### Reference
+* 송미영, 『쉽게 배우는 JSP 웹 프로그래밍, 한빛아카데미(2018)
